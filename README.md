@@ -61,9 +61,10 @@ We select Postsdam, Vaihingen and LoveDA as benchmark datasets and create train,
      chmod 777 ./tools/dist_test.sh
      ```
 
+
 ### Training
 
-**mit_b5.pth** : [google drive](https://drive.google.com/drive/folders/1cmKZgU8Ktg-v-jiwldEc6IghxVSNcFqk?usp=sharing) For SegFormerb5 based ST-DASegNet training, we provide ImageNet-pretrained backbone here.
+**mit_b5.pth** : [url](https://pan.baidu.com/s/16nqk3_X4TU4hO7_57qheoQ?pwd=0116) For SegFormerb5 based ST-DASegNet training, we provide ImageNet-pretrained backbone here.
 
 We select deeplabv3 and Segformerb5 as baselines. Actually, we use deeplabv3+, which is a more advanced version of deeplabv3. After evaluating, we find that deeplabv3+ has little modification compared to deeplabv3 and has little advantage than deeplabv3.
 
@@ -346,7 +347,7 @@ Trained with the above commands, you can get a trained model to test the perform
 
 The ArXiv version of this paper is release. [ST-DASegNet_arxiv](https://arxiv.org/pdf/2301.05526.pdf). This paper has been published on JAG, please refer to [Self-Training Guided Disentangled Adaptation for Cross-Domain Remote Sensing Image Semantic Segmentation](https://doi.org/10.1016/j.jag.2023.103646).
 
-If you have any question, please discuss with me by sending email to lyushuchang@buaa.edu.cn.
+If you have any question, please discuss with me by sending email to 24171214037@xidian.edu.cn.
 
 # References
 Many thanks to their excellent works
