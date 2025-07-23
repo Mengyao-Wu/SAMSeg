@@ -2,12 +2,7 @@
 
 This repo is the implementation of ["Self-Training Guided Disentangled Adaptation for Cross-Domain Remote Sensing Image Semantic Segmentation"](https://arxiv.org/pdf/2301.05526.pdf). we refer to  [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) and [MMGeneration](https://github.com/open-mmlab/mmgeneration). Many thanks to SenseTime and their two excellent repos.
 
-<table>
-    <tr>
-    <td><img src="PaperFigs\Fig1.png" width = "100%" alt="Cross-Domain RS Semantic Segmentation"/></td>
-    <td><img src="PaperFigs\Fig4.png" width = "100%" alt="ST-DASegNet"/></td>
-    </tr>
-</table>
+
 
 ## Dataset Preparation
 
