@@ -1,0 +1,8 @@
+#file
+*.png
+*.pth
+*.log
+
+# dirtory
+.idea
+
